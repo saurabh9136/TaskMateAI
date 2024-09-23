@@ -1,12 +1,10 @@
 # TaskMate.ai - AI-Powered Task Management System
-
-## Overview
-
-TaskMate.ai is an AI-driven task management system that helps users generate concise code-related solutions for tasks using AI models. This platform integrates Google Gemini AI to provide efficient, 5-point solutions, making task management faster and more productive.
 ## Project Demo
 https://github.com/user-attachments/assets/184f48fa-40c9-44fb-9535-65440f4290a4
 
-*Click the image to watch the demo.*
+## Overview
+TaskMate.ai is an AI-driven task management system that helps users generate concise code-related solutions for tasks using AI models. This platform integrates Google Gemini AI to provide efficient, 5-point solutions, making task management faster and more productive.
+
 ## Features
 
 - **User Authentication**: Secure login and registration system.
