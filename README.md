@@ -19,7 +19,6 @@ TaskMate.ai is an AI-driven task management system that helps users generate con
 - **Backend**: Django, Django Rest Framework
 - **AI Integration**: Google Gemini AI API (gemini-1.5-flash)
 - **Database**: SQLite
-- **Frontend**: Angular (Optional if you're building a frontend)
 
 ## Installation
 
